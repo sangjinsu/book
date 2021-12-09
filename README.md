@@ -49,6 +49,7 @@
 
 | Date       | Record                                                       | Link                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021.12.09 | 살면서 한번은 경제학 공부 - 6강 사고팔 수 있는 것과 없는 것  | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
 | 2021.10.10 | 살면서 한번은 경제학 공부 - 5강 우리의 행동을 바꾸는 기울기의 비밀, 가격에 대한 반응의 크기 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
 | 2021.10.05 | 살면서 한번은 경제학 공부 - 4강 내 지갑을 조종하는 이자율의 의미, 시간과 돈의 가격 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
 | 2021.09.24 | 살면서 한번은 경제학 공부 - 3강 우리가 함께 사는 경제적 이유, 삶의 행복을 키우는 교환 경제 | [go](https://github.com/jinsuSang/TIL/blob/main/book/studying_economics_once_in_my_life/studying_economics_once_in_my_life.md) |
